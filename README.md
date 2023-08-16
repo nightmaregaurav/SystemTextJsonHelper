@@ -8,14 +8,17 @@
 - Deserialize JSON strings back into objects with customizable options.
 - Easily set global serialization options for consistent behavior across the application.
 
+
+
 ## Usage
 
 To use the `SystemTextJsonHelper` in your project, follow these steps:
 
-1. import the `SystemTextJsonHelper` namespace.
-2. Configure global options using `SetGlobalJsonSerializerOptions` method of `JsonHelper` class.
-3. You can get current options using `GetJsonSerializerOptions` or `GetJsonSerializerOptions` to get default options.
-4. Access static methods `Serialize` or `Deserialize` from the `JsonHelper` class for serialization and deserialization.
+1. Install the package from [NuGet](https://www.nuget.org/packages/nightmaregaurav.systemtextjsonhelper).
+2. import the `SystemTextJsonHelper` namespace.
+3. Configure global options using `SetGlobalJsonSerializerOptions` method of `JsonHelper` class.
+4. You can get current options using `GetJsonSerializerOptions` or `GetJsonSerializerOptions` to get default options.
+5. Access static methods `Serialize` or `Deserialize` from the `JsonHelper` class for serialization and deserialization.
 
 ### Serialization
 
