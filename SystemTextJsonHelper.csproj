@@ -4,8 +4,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>nightmaregaurav.systemtextjsonhelper</PackageId>
-        <Version>1.0.0</Version>
-        <PackageVersion>1.0.0</PackageVersion>
+        <Version>1.0.1</Version>
+        <PackageVersion>1.0.1</PackageVersion>
         <Description>A C# helper class that simplifies the process of serializing and deserializing objects using the `System.Text.Json` namespace. It provides a flexible and convenient way to handle JSON serialization and deserialization with customizable options.</Description>
         <Authors>Gaurav Nyaupane</Authors>
         <Owners>nightmaregaurav</Owners>
